@@ -1,0 +1,15 @@
+site_name: randomdocs
+
+site_url: vemas23.github.io/randomstuff
+
+repo_url: https://github.com/vemas23/randomstuff
+
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: deep orange
+    accent: deep orange
+    language: de
+    logo: https://svgl.app/library/doge.svg
+    favicon: https://svgl.app/library/doge.svg
