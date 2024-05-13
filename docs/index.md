@@ -1,5 +1,5 @@
 ---
-title: Welcome.
+title: Welcome
 ---
 
 # Hi welcome to my little Docs site for my projects!
