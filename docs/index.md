@@ -1,5 +1,5 @@
 ---
-title: VEMASDOCS
+title: Welcome.
 ---
 
 # Hi welcome to my little Docs site for my projects!
